@@ -3,8 +3,8 @@
 <body>
 
 <?php
-ECHO "Hello World!<br>";
-echo "Hello World!<br>";
+ECHO "Hello Raja <br>";
+echo "Hello Ram!<br>";
 EcHo "Hello World!<br>";
 ?> 
 
