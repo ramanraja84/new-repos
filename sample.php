@@ -4,7 +4,7 @@
 
 <?php
 ECHO "Hello Raja <br>";
-echo "Hello Ram!<br>";
+Echo "Hello Ram!<br>";
 EcHo "Hello charu!<br>";
 ?> 
 
